@@ -13,7 +13,7 @@ Inputs image (predict flow vector of left -> right)
 </tr>
 </table>
 
-Outputs
+Outputs flow vector map
 OpenCV(left) & FlowNet(right)
 <table border="0">
 <tr>
