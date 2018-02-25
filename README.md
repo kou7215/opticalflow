@@ -1,4 +1,4 @@
-# opticalflow
+# Which is better dense opticalflow(OpenCV) or FlowNet(DNN)?
 Comparing FlowNet(DNN) and Dense optical flow(OpenCV).
 Running run.py, drawing flow map & error map.
 
