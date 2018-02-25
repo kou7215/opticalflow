@@ -8,8 +8,8 @@ If you need it, please search author's page.
 Inputs image (predict flow vector of left -> right)
 <table border="0">
 <tr>
-<td><img src="https://github.com/kou7215/opticalflow/blob/master/samples/0000000-imgL.jpg?raw=true", title="Input1"></td>
-<td><img src="https://github.com/kou7215/opticalflow/blob/master/samples/0000000-imgR.jpg?raw=true", title="Input2"></td>
+<td><img src="https://github.com/kou7215/opticalflow/blob/master/samples/0000000-imgL.jpg?raw=true", alt="Input1"></td>
+<td><img src="https://github.com/kou7215/opticalflow/blob/master/samples/0000000-imgR.jpg?raw=true", alt="Input2"></td>
 </tr>
 </table>
 
