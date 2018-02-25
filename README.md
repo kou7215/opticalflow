@@ -6,7 +6,6 @@ Trained parameter is needed to download from author of FlowNet.
 If you need it, please search author's page.
 
 Inputs image1
-<img src=https://github.com/kou7215/opticalflow/blob/master/samples/0000000-imgL.jpg?raw=true" alt="input1" title="input1">
-                                                                                                                                     Inputs image2
-                                                                                                                                     <img src="https://github.com/kou7215/opticalflow/blob/master/samples/0000000-imgR.jpg?raw=true" alt="input2" title="input2">
-                                                                                                                                     
+<img src="https://github.com/kou7215/opticalflow/blob/master/samples/0000000-imgL.jpg?raw=true" alt="input1">
+                                                                                                                          
+<img src="https://github.com/kou7215/opticalflow/blob/master/samples/0000000-imgR.jpg?raw=true" alt="input">                                                                                                   
